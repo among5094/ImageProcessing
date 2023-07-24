@@ -5,5 +5,5 @@ https://github.com/among5094/ObjectDetection/assets/106166621/bcaf588a-c6c6-4e98
 
 ## 14번 이진화된 이미지 트랙바처리
 
-https://github.com/among5094/ObjectDetection/assets/106166621/5ba28c43-89a7-4e3f-86ae-959c0413896c
+https://github.com/among5094/ObjectDetection/assets/106166621/cd35de40-2cca-4181-8775-520e863adc8c
 
