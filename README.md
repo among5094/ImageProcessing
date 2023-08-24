@@ -1,5 +1,5 @@
+# 결과 동영상(13번 부터)
 
-https://github.com/among5094/OpenCV/assets/106166621/3f3a1b74-6cfa-4596-924b-367786b3d50e
 
 ## 13번 미니 프로젝트: 반자동 문서스캐너
 
@@ -12,6 +12,10 @@ https://github.com/among5094/ObjectDetection/assets/106166621/cd35de40-2cca-4181
 ## 15번 이미지 팽창(Dilate)으로 노이즈 제거하기
 
 https://github.com/among5094/OpenCV/assets/106166621/59e44245-6990-4591-bf59-21eb2c3a4a6b
+
+## 16번 이미지 침식()으로 노이즈 제거하기
+
+https://github.com/among5094/OpenCV/assets/106166621/3cd4a4b3-106c-4604-8153-edf5c026b18f
 
 
 
