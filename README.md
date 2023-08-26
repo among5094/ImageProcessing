@@ -13,10 +13,6 @@ https://github.com/among5094/ObjectDetection/assets/106166621/cd35de40-2cca-4181
 
 https://github.com/among5094/OpenCV/assets/106166621/59e44245-6990-4591-bf59-21eb2c3a4a6b
 
-## 16번 이미지 침식()으로 노이즈 제거하기
-
-https://github.com/among5094/OpenCV/assets/106166621/3cd4a4b3-106c-4604-8153-edf5c026b18f
-
 
 
 
